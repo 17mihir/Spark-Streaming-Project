@@ -1,4 +1,4 @@
-# Spark Streaming Project
+# Tredence Spark Streaming Project
 ## SF Crime Statistics with Spark Streaming
 
 ## Goal of the project
